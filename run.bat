@@ -1,0 +1,2 @@
+set classpath=.;lib\c3p0-0.9.1.2.jar;lib\commons-beanutils-1.7.0.jar;lib\commons-collections-3.2.jar;lib\commons-lang-2.3.jar;lib\commons-logging.jar;lib\dsn.jar;lib\ezmorph-1.0.3.jar;lib\mysql-connector-java-5.1.18-bin.jar;lib\json-lib-2.2.3-jdk15.jar;
+start java com.xj.Server.control.Start
